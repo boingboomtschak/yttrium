@@ -44,7 +44,7 @@ echo -e " d8888P                                                "
 echo
 echo -e "\u001b[0mStarting yttrium..."
 
-# Start flask
+# Starting flask
 flask run --host=0.0.0.0 -p 8080
 
 # Disabling venv before exiting...

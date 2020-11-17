@@ -1,5 +1,6 @@
 import os
-import flask
+from flask import Flask
+import utils.generator as g
 
 # yttrium starter Flask code
 
@@ -8,7 +9,7 @@ app.secret_key = os.urandom(24)
 
 @app.route('/')
 def main():
-    return "Hello, world!"
+    return g.generate_page()
 
 if __name__ == "__main__":
     print("Starting up yttrium server...")

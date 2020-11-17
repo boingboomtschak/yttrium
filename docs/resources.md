@@ -16,4 +16,4 @@ Some of these may be better categorized as more resources get added to the list.
 
 - [Choice set of popular 90s images (many are album covers) and the fonts they use](https://fontsinuse.com/tags/400/1990s)
 
-- [A page on three.js fundamentals (for a planned future feature in generating three.js modeled backgrounds in a configurably random manner)] (https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html) and the [three.js online editor](https://threejs.org/editor/)
+- [A page on three.js fundamentals \(for a planned future feature in generating three.js modeled backgrounds in a configurably random manner\)] (https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html) and the [three.js online editor](https://threejs.org/editor/)
